@@ -11,4 +11,4 @@ b = 1.2
 # EM JAVA a + 1.2 -> erro pois e inteiro
 
 # print('Em phyton = ' + a + b) -> ERRO: nao da pra concatenar str + int/float direto
-print(f'Em phyton = {a + b}')
+print(f'Em phyton = {a + b}') # RESULTADO = 3.2
